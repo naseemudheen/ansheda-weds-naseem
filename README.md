@@ -3,9 +3,9 @@
 A digital wedding invitation web application celebrating the union of Ansheda and Naseemudheen.
 
 ## Wedding Details
-- **Date:** Sunday, 13th December 2026
+- **Date:** Saturday, 12th December 2026
 - **Time:** 11:00 AM to 3:00 PM
-- **Venue:** Green Palace Auditorium, Othukkungal
+- **Venue:** Greenland Auditorium, Chemmad
 
 ## Features
 - **Light Luxury Theme:** Refined ivory, champagne, and antique gold styling.

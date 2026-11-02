@@ -192,9 +192,9 @@ const Hero = () => {
         whileTap={{ scale: 0.95 }}
         href={`https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(
           'Ansheda weds Naseemudheen - Wedding Reception'
-        )}&dates=20261213T053000Z/20261213T093000Z&details=${encodeURIComponent(
-          'With joyous hearts, we invite you to celebrate the wedding reception of Ansheda & Naseemudheen on December 13th, 2026 at Green Palace Auditorium, Othukkungal.\n\nLocation: https://maps.app.goo.gl/hUHXXzxFMCqLAF4v9'
-        )}&location=${encodeURIComponent('Green Palace Auditorium, Othukkungal')}`}
+        )}&dates=20261212T053000Z/20261212T093000Z&details=${encodeURIComponent(
+          'With joyous hearts, we invite you to celebrate the wedding reception of Ansheda & Naseemudheen on Saturday, December 12th, 2026 at Greenland Auditorium, Chemmad.\n\nLocation: https://www.google.com/maps/search/?api=1&query=Greenland+Auditorium+Chemmad'
+        )}&location=${encodeURIComponent('Greenland Auditorium, Chemmad')}`}
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Add to Calendar"

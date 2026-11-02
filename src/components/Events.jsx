@@ -26,7 +26,7 @@ const EventCard = ({ title, date, time, venue, address, mapLink, delay }) => (
         <div>
           <p className="text-xs sm:text-sm text-gold-600 uppercase tracking-widest font-bold">Date</p>
           <p className="font-serif text-lg sm:text-xl md:text-2xl text-cream-100 font-bold leading-snug">{date}</p>
-          <p className="text-sm sm:text-base text-gold-600 font-serif italic font-medium mt-0.5">4 Rajab 1448 AH</p>
+          <p className="text-sm sm:text-base text-gold-600 font-serif italic font-medium mt-0.5">3 Rajab 1448 AH</p>
         </div>
       </div>
       
@@ -102,11 +102,11 @@ const Events = () => {
           <div className="w-full">
             <EventCard 
               title="Wedding Reception"
-              date="Sunday, 13th December 2026"
+              date="Saturday, 12th December 2026"
               time="11:00 AM to 3:00 PM"
-              venue="Green Palace Auditorium"
-              address="Othukkungal"
-              mapLink="https://maps.app.goo.gl/hUHXXzxFMCqLAF4v9"
+              venue="Greenland Auditorium"
+              address="Chemmad"
+              mapLink="https://www.google.com/maps/search/?api=1&query=Greenland+Auditorium+Chemmad"
               delay={0.2}
             />
           </div>
